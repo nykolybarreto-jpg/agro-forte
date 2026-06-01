@@ -20,11 +20,11 @@ h1 {
 }
 
 h2 {
-    color:rgb(209, 157, 209);
+    color:rgb(145, 67, 145);
 
     footer{
-    background-color:#191717;
-    color:antiquewhite;
+    background-color:#4a24d3;
+    color:rgb(43, 95, 129);
 }
 
     
