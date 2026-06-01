@@ -15,14 +15,18 @@ footer{
     color:antiquewhite;
 }
 
-.h1 {
+h1 {
     color:rgb(89, 5, 97);
 }
 
-.h2 {
-
+h2 {
     color:rgb(209, 157, 209);
-    
+
+    footer{
+    background-color:#191717;
+    color:antiquewhite;
+}
+
     
 
 }
