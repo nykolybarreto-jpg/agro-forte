@@ -12,7 +12,7 @@ body {
 }
 footer{
     background-color:#191717;
-    color:antiquewhite;
+    color:rgb(16, 173, 235);
 }
 
 h1 {
