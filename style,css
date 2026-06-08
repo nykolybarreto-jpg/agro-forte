@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-    color:rgb(230, 0, 230);
+    color:beige(230, 0, 230);
 
     footer{
     background-color:#4a24d3;
