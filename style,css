@@ -16,11 +16,11 @@ footer{
 }
 
 h1 {
-    color:rgb(89, 5, 97);
+    color:rgb(193, 38, 207);
 }
 
 h2 {
-    color:rgb(145, 67, 145);
+    color:rgb(230, 0, 230);
 
     footer{
     background-color:#4a24d3;
