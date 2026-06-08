@@ -7,12 +7,12 @@ body {
     max-height: 100px;
     width:auto;
     height: auto;
-    width:40%;
-    height:40%;
+    width:30%;
+    height:30%;
 }
 footer{
-    background-color:#191717;
-    color:rgb(16, 173, 235);
+    background-color:antiquewhite;
+    color:bisque rgb(16, 173, 235);
 }
 
 h1 {
